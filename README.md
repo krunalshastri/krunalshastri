@@ -9,7 +9,7 @@ Hello, my name is Krunal Shastri and I am a final year student at Sardar Vallabh
 - 😄 Pronouns: Programmer/He/His.
 - 📝 [Resume](https://drive.google.com/file/d/1AWauzMz8mIoq8ua-OEQKF-5BGBWUDz_1/view?usp=sharing)
 
-  **Languages and Tools:**
+**Languages and Tools:**
 
 ![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
@@ -24,6 +24,7 @@ Hello, my name is Krunal Shastri and I am a final year student at Sardar Vallabh
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ![Krunal's Github Stats](https://github-readme-stats.vercel.app/api?username=krunalshastri&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunalshastri&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krunalshastri.krunalshastri)
