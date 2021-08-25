@@ -3,7 +3,7 @@
 Hello, my name is Krunal Shastri and I am a final year student at Sardar Vallabhbhai National Institite of Technology, Surat.
 
 - 🌱 I’m currently practicing Data Structures and Algorithms & Competitve Programming.
-- 👯 I’m looking to collaborate on any Software Development Technology.
+- 👯 I’m looking to collaborate on variety of Open Source Projects.
 - 📫 How to reach me: krunalshastri00@gmail.com
 - 😄 Pronouns: Programmer/He/His.
 - 📝 [Resume](https://drive.google.com/file/d/1AWauzMz8mIoq8ua-OEQKF-5BGBWUDz_1/view?usp=sharing)
