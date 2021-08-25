@@ -5,7 +5,6 @@ Hello, my name is Krunal Shastri and I am a final year student at Sardar Vallabh
 - 🌱 I’m currently practicing Data Structures and Algorithms & Competitve Programming.
 - 👯 I’m looking to collaborate on any Software Development Technology.
 - 📫 How to reach me: krunalshastri00@gmail.com
-- 💬 Brainstorm with me over tech, algorithms, and career.
 - 😄 Pronouns: Programmer/He/His.
 - 📝 [Resume](https://drive.google.com/file/d/1AWauzMz8mIoq8ua-OEQKF-5BGBWUDz_1/view?usp=sharing)
 
