@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Krunal! 😁
 
-Hello, my name is Krunal Shastri and I am a final year student at Sardar Vallabhbhai National Institite of Technology, Surat.
+Hello, My name is Krunal Shastri and I am a Final year student at Sardar Vallabhbhai National Institute of Technology, Surat.
 
 - 🌱 I’m currently practicing Data Structures and Algorithms & Competitve Programming.
 - 👯 I’m looking to collaborate on variety of Open Source Projects.
