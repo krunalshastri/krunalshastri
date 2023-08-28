@@ -2,7 +2,7 @@
 
 Hello, My name is Krunal Shastri and I am a software engineer.
 
-- 🌱 I’m currently practicing Data Structures and Algorithms & Competitve Programming.
+- 🌱 I’m proficient in Data Structures and Algorithms & Competitve Programming.
 - 👯 I’m looking to collaborate on variety of Open Source Projects.
 - 📫 How to reach me: krunalshastri00@gmail.com
 - 😄 Pronouns: Programmer/He/His.
