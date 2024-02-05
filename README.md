@@ -22,8 +22,6 @@ Hello, My name is Krunal Shastri and I am a software engineer.
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Krunal's Github Stats](https://github-readme-stats.vercel.app/api?username=krunalshastri&count_private=true&show_icons=true&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunalshastri&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krunalshastri.krunalshastri)
